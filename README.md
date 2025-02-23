@@ -60,23 +60,39 @@ Here are some screenshots demonstrating the application's features.
 
 ### 🏠 Main Menu  
 The main menu screen where users can navigate through different options.  
-![Main Menu](screenshots/main_menu.png)  
+<img src="screenshots/main_menu.png" 
+     alt="A main menu screen for the application" 
+     title="Main Menu" 
+     style="border: 2px solid black; width: 80%;" />  
 
 ### 📋 Displaying a Property  
 A detailed view of a selected property, including relevant information.  
-![Display Property](screenshots/display_property.png)  
+<img src="screenshots/display_property.png" 
+     alt="A detailed view of a selected property" 
+     title="Displaying a Property" 
+     style="border: 2px solid black; width: 80%;" />
 
 ### ✏️ Editing a Property  
 Users can modify existing property details through this interface.  
-![Editing Property](screenshots/editing_property.png)  
+<img src="screenshots/editing_property.png" 
+     alt="Users editing property details" 
+     title="Editing a Property" 
+     style="border: 2px solid black; width: 80%;" />
 
 ### 📂 Additional Menus  
 Various menu options available for interacting with the system.  
-![More Menus](screenshots/more_menus.png)  
+<img src="screenshots/more_menus.png" 
+     alt="Additional menu options" 
+     title="More Menus" 
+     style="border: 2px solid black; width: 80%;" />
 
 ### 💾 Saving Property Data  
 Demonstrating the functionality for saving property records to a file.  
-![Saving File](screenshots/saving_file.png)  
+<img src="screenshots/saving_file.png" 
+     alt="Saving property records to a file" 
+     title="Saving Property Data" 
+     style="border: 2px solid black; width: 80%;" />
+
 
 ## Future Improvements  
 - Implementing an **SQL database** for persistent storage.  
