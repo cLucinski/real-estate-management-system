@@ -54,6 +54,30 @@ The project was completed in three phases, each building upon the previous one t
    - Add, modify, or delete real estate objects.
     - Save and load data using the File menu.
 
+## Screenshots  
+
+Here are some screenshots demonstrating the application's features.  
+
+### 🏠 Main Menu  
+The main menu screen where users can navigate through different options.  
+![Main Menu](screenshots/main_menu.png)  
+
+### 📋 Displaying a Property  
+A detailed view of a selected property, including relevant information.  
+![Display Property](screenshots/display_property.png)  
+
+### ✏️ Editing a Property  
+Users can modify existing property details through this interface.  
+![Editing Property](screenshots/editing_property.png)  
+
+### 📂 Additional Menus  
+Various menu options available for interacting with the system.  
+![More Menus](screenshots/more_menus.png)  
+
+### 💾 Saving Property Data  
+Demonstrating the functionality for saving property records to a file.  
+![Saving File](screenshots/saving_file.png)  
+
 ## Future Improvements  
 - Implementing an **SQL database** for persistent storage.  
 - Adding **search and filtering** features for properties.  
